@@ -4,7 +4,7 @@
 package assignment1;
 
 /**
- * @author ttiyyagura@teksystems.com
+ * @author 
  *
  */
 public class Calculator implements CalculatorStructure {
